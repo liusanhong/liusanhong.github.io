@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liusanhong.github.io</id>
+    <title>sanhong</title>
+    <updated>2020-07-29T10:22:52.700Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://liusanhong.github.io"/>
+    <link rel="self" href="https://liusanhong.github.io/atom.xml"/>
+    <subtitle>早学炼</subtitle>
+    <logo>https://liusanhong.github.io/images/avatar.png</logo>
+    <icon>https://liusanhong.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, sanhong</rights>
+    <entry>
+        <title type="html"><![CDATA[7.18关于容猫部门的思考]]></title>
+        <id>https://liusanhong.github.io/post/718-guan-yu-rong-mao-bu-men-de-si-kao/</id>
+        <link href="https://liusanhong.github.io/post/718-guan-yu-rong-mao-bu-men-de-si-kao/">
+        </link>
+        <updated>2019-07-19T00:19:49.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="c端用户">c端用户</h3>
+<h4 id="1-有差评的app平台有良心的app平台">1. 有差评的app平台，有良心的app平台，</h4>
+<h4 id="2整容失败十倍赔偿免费修复">2.整容失败，十倍赔偿，免费修复</h4>
+<h3 id="b端医院美容院">B端（医院，美容院）</h3>
+<h4 id="医院">医院：</h4>
+<h4 id="1-不全返必须有盈利这个返回百分之10不应该作为核心">1. 不全返（必须有盈利，这个返回百分之10不应该作为核心）</h4>
+<h4 id="2-前期不需要押金但派单20人不定后必须需要押金">2. 前期不需要押金，但派单20人（不定）后必须需要押金</h4>
+<h4 id="3价格必须全网最低不能高于其他网络平台">3.价格必须全网最低，不能高于其他网络平台</h4>
+<h4 id="4大医院无论什么条件前期可以无底线满足其条件">4.大医院无论什么条件，前期可以无底线满足其条件</h4>
+<h4 id="5-app上面的产品维护不需要他们专门人员管理-只需要提供资料容猫部门会负责上传和消费消核">5. app上面的产品维护，不需要他们专门人员管理。只需要提供资料，容猫部门会负责上传和消费消核</h4>
+<h4 id="美容院">美容院：</h4>
+<h4 id="1所有美容院也要拉入扩大消费频率和收入来源">1.所有美容院也要拉入，扩大消费频率和收入来源</h4>
+<h4 id="2同医院端">2.同医院端</h4>
+<h3 id="app端">app端</h3>
+<h4 id="1-产品需要原生或者flutter重构必须更加流畅">1. 产品需要原生或者flutter重构（必须更加流畅）</h4>
+<h4 id="2首页需要整合所有产品的瀑布流">2.首页需要整合所有产品的瀑布流</h4>
+<h4 id="3-下拉必须重组数据">3. 下拉必须重组数据</h4>
+<h4 id="4-视频流下拉播放的时候必须不能重复">4. 视频流下拉播放的时候必须不能重复</h4>
+<h3 id="web端">web端</h3>
+<h4 id="1需要开发web端的商品构建便于搜索">1.需要开发web端的商品构建，便于搜索</h4>
+<h3 id="关于脸赞">关于脸赞</h3>
+<h4 id="1定位工具类可以对比使用产品后的效果">1.定位工具类，可以对比使用产品后的效果</h4>
+<h4 id="2-有商品列表">2. 有商品列表</h4>
+<h4 id="3-推广必须带利益送一片试用面膜水光针减免朋友帮砍一砍等">3. 推广必须带利益（送一片试用面膜，水光针减免，朋友帮砍一砍等）</h4>
+<h3 id="关于推广步骤">关于推广步骤</h3>
+<h4 id="1是否有朋友和内部同事能够购买">1.是否有朋友和内部同事能够购买</h4>
+<h4 id="2是否能够自然增长">2.是否能够自然增长</h4>
+<h4 id="3推广">3.推广</h4>
+<h3 id="关于内容与新氧区分">关于内容，与新氧区分</h3>
+<p>现在内容，基本上大半年没有任何建树，是否可以考虑环种方式</p>
+<h4 id="1有差评">1.有差评</h4>
+<h4 id="2-整容失败案例">2. 整容失败案例？</h4>
+<h4 id="3专业有参考价值">3.专业有参考价值</h4>
+<h3 id="关于组织构架">关于组织构架</h3>
+<h4 id="1项目必须全员参与便于各个部门之间的提前准备沟通和合作">1.项目必须全员参与（便于各个部门之间的提前准备，沟通和合作）</h4>
+<h4 id="2责任必须清晰项目进度时间需要全员参与并公开化">2.责任必须清晰，项目进度时间需要全员参与，并公开化</h4>
+<h4 id="3各部门之间必须有对应负责人便于把控对应部门质量和责任到人">3.各部门之间必须有对应负责人（便于把控对应部门质量和责任到人）</h4>
+<h4 id="4有惩罚必有奖励-加班有对应时间或经济补偿迟到一定次数也必须要有时间和经济的补偿">4.有惩罚，必有奖励。加班有对应时间或经济补偿，迟到一定次数也必须要有时间和经济的补偿</h4>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[python]]></title>
+        <id>https://liusanhong.github.io/post/python/</id>
+        <link href="https://liusanhong.github.io/post/python/">
+        </link>
+        <updated>2019-06-20T10:00:25.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="time模块">time模块</h1>
+<p>import time<br>
+时间戳(tamp)《=》时间元祖(tuple)《=》时间格式(str)    tip：格式化：fmt<br>
+tamp = time.now()</p>
+<p>tamp = time.mktime(tuple)</p>
+<p>str = time.strftime(格式,tuple)<br>
+tuple=time.strptime(str,格式)</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://liusanhong.github.io/post/hello-gridea/</id>
+        <link href="https://liusanhong.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
