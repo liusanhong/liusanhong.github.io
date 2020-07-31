@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liusanhong.github.io</id>
     <title>sanhong</title>
-    <updated>2020-07-29T11:22:13.121Z</updated>
+    <updated>2020-07-31T23:01:04.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liusanhong.github.io"/>
     <link rel="self" href="https://liusanhong.github.io/atom.xml"/>
@@ -11,18 +11,37 @@
     <icon>https://liusanhong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, sanhong</rights>
     <entry>
-        <title type="html"><![CDATA[python]]></title>
-        <id>https://liusanhong.github.io/post/python/</id>
-        <link href="https://liusanhong.github.io/post/python/">
+        <title type="html"><![CDATA[习惯的力量]]></title>
+        <id>https://liusanhong.github.io/post/xi-guan-de-li-liang/</id>
+        <link href="https://liusanhong.github.io/post/xi-guan-de-li-liang/">
         </link>
-        <updated>2019-06-20T10:00:25.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="time模块">time模块</h1>
-<p>import time<br>
-时间戳(tamp)《=》时间元祖(tuple)《=》时间格式(str)    tip：格式化：fmt<br>
-tamp = time.now()</p>
-<p>tamp = time.mktime(tuple)</p>
-<p>str = time.strftime(格式,tuple)<br>
-tuple=time.strptime(str,格式)</p>
+        <updated>2020-07-31T22:06:32.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="作者简介">作者简介</h3>
+<p>查尔斯·都希格，耶鲁大学历史系学士、哈佛大学企业管理硕士。《纽约时报》商业调查记者。他撰写了一系列极具影响力的报道。例如：调查各大公司如何利用老年美国人的文章，最后编成了《最佳机会》（2007),还有研究金融危机原因和后果的《大清算》（2008），以及有关美国水域污染恶化以及管理者对此反应的《污染水域》（2009）。<br>
+杜希格先生获得过美国国家科学院新闻报告奖、国家记者奖、乔治·伯克奖、杰拉尔德·勒伯奖等很多奖项，并且入围2009年普利策奖最终提名。他经常为《美国生活》、《奥兹医生脱口秀》、美国国家公共广播电台、美国公共广播公司《新闻时刻》栏目以及《前线》撰稿。</p>
+<h3 id="中心思想">中心思想</h3>
+<p>人每天都活动中，有超过百分之四十都是习惯的产物，而不是自己决定的。<br>
+习惯强而有力，却也脆肉易催；习惯会不知不觉的产生，也能刻意的培养。</p>
+<p>本书分别从个人，组织，社会群里三个方面讨论了习惯。</p>
+<p>本书最终阐述的是：习惯很重要，习惯不能被消除，却能被替代，习惯可以改变</p>
+<h3 id="前言">前言</h3>
+<p>通过一个吸烟凶酒的女士丽莎的改变，证明通过集中在一个模式上(所谓的关键习惯上)，可以改变生活中的其它习惯。我想到的也就是说，比如一个习惯，会影响其它习惯。比如早起，就能影响你一天。</p>
+<p>一个美国军队少校在伊拉克库法市，通过观察，禁止兜售食品的人靠近广场，让围观的人群解散，降低暴力活动。一旦在你眼中，一切事物都是习惯的集合，你就会觉得有人给了你一根手电筒和撬棍，你就可以放手大干了。</p>
+<h3 id="习惯是怎么形成的">习惯是怎么形成的</h3>
+<p>通过老鼠的走迷宫得到巧克力的实验和一个得脑炎而丧失记忆能力的尤金，也有习惯回路阐述大脑的习惯过程。<br>
+第一步，存在一个暗示，让大脑进入自动行为，并决定使用哪种习惯。<br>
+第二步，惯常行为，可以是身体，思维和情感的。<br>
+第三步，奖赏。是否记下这个回路。</p>
+<p>慢慢地，暗示，惯常行为，奖赏会越来约自动化。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[about sanhong]]></title>
+        <id>https://liusanhong.github.io/post/test/</id>
+        <link href="https://liusanhong.github.io/post/test/">
+        </link>
+        <updated>2020-07-30T02:32:38.000Z</updated>
+        <content type="html"><![CDATA[<p>persistence&amp;absorbed&amp;pure</p>
 ]]></content>
     </entry>
 </feed>
